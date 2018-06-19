@@ -11,3 +11,6 @@ $("#reset").click(function(evt) {
   $("#inscrever").show();
   $("#obrigado").hide();
 })
+$("#submit").click( function(){
+  alert("Hello World!");
+})
