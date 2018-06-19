@@ -12,5 +12,5 @@ $("#reset").click(function(evt) {
   $("#obrigado").hide();
 })
 $("#submit").click( function(){
-  alert("Hello World!");
+  alert("Obrigado pela inscrição!");
 })
